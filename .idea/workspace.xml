@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="287a1430-872a-4abe-923d-5c7b5b89b130" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="953efcd2-98a9-41a5-97b3-0a2059ac741f">
+    <option name="files">
+      <option value="chapter8\graph.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1RMa6X9opvfQ5kIYAKYMNecUbeF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter5" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ISLR" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ISLR" />
+      </console-settings>
+    </option>
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ISLR\chapter4" />
+      <recent name="D:\PycharmProjects\ISLR\utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ISLR\chapter5" />
+      <recent name="D:\PycharmProjects\ISLR\chapter3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.export_study_log">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ISLR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\chapter6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter4/12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ISLR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\chapter6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/Exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\chapter6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="export_study_log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ISLR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\chapter6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../my_projects/study_log" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../my_projects/study_log/export_study_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiple_linear" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ISLR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\chapter6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/multiple_linear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ISLR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\chapter6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.export_study_log" />
+        <item itemvalue="Python.12" />
+        <item itemvalue="Python.multiple_linear" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.Exercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="287a1430-872a-4abe-923d-5c7b5b89b130" name="Default Changelist" comment="" />
+      <created>1569944865140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569944865140</updated>
+      <workItem from="1569944868334" duration="429000" />
+      <workItem from="1569945307593" duration="1859000" />
+      <workItem from="1569989058528" duration="11470000" />
+      <workItem from="1570028501292" duration="3039000" />
+      <workItem from="1570080804760" duration="7467000" />
+      <workItem from="1570115513837" duration="4295000" />
+      <workItem from="1570188685485" duration="14931000" />
+      <workItem from="1570373198702" duration="3038000" />
+      <workItem from="1570422328274" duration="57000" />
+      <workItem from="1570537095951" duration="10205000" />
+      <workItem from="1571035534251" duration="4498000" />
+      <workItem from="1571060662299" duration="3368000" />
+      <workItem from="1571064061928" duration="9291000" />
+      <workItem from="1571076224476" duration="3211000" />
+      <workItem from="1571082138499" duration="8785000" />
+      <workItem from="1571117143281" duration="536000" />
+      <workItem from="1571118226900" duration="1127000" />
+      <workItem from="1571120387129" duration="85000" />
+      <workItem from="1571122116621" duration="113000" />
+      <workItem from="1571122542376" duration="691000" />
+      <workItem from="1571124086107" duration="707000" />
+      <workItem from="1571124997346" duration="328000" />
+      <workItem from="1571125522444" duration="1524000" />
+      <workItem from="1571154977664" duration="501000" />
+      <workItem from="1571156280254" duration="164000" />
+      <workItem from="1571199122265" duration="3596000" />
+      <workItem from="1571204746578" duration="1022000" />
+      <workItem from="1571206217031" duration="2613000" />
+      <workItem from="1571235783891" duration="6817000" />
+      <workItem from="1571286026034" duration="8443000" />
+      <workItem from="1571321523423" duration="7511000" />
+      <workItem from="1571404315155" duration="1875000" />
+      <workItem from="1571412659704" duration="24000" />
+      <workItem from="1571758070446" duration="3438000" />
+      <workItem from="1571836760689" duration="10083000" />
+      <workItem from="1571890056937" duration="5000" />
+      <workItem from="1571924423902" duration="7903000" />
+      <workItem from="1571977396214" duration="631000" />
+      <workItem from="1572014067157" duration="2184000" />
+      <workItem from="1572016259973" duration="9271000" />
+      <workItem from="1572027392567" duration="1425000" />
+      <workItem from="1572064298366" duration="7000" />
+      <workItem from="1572091725334" duration="7487000" />
+      <workItem from="1572145526401" duration="5604000" />
+      <workItem from="1572151138501" duration="100000" />
+      <workItem from="1572151241690" duration="117000" />
+      <workItem from="1572151361300" duration="66000" />
+      <workItem from="1572151430140" duration="41000" />
+      <workItem from="1572151473471" duration="3109000" />
+      <workItem from="1572189819694" duration="15438000" />
+      <workItem from="1572276757443" duration="446000" />
+      <workItem from="1572277207602" duration="1127000" />
+      <workItem from="1572278385447" duration="1440000" />
+      <workItem from="1572353347665" duration="12403000" />
+      <workItem from="1572407588694" duration="5000" />
+      <workItem from="1572442332100" duration="1728000" />
+      <workItem from="1572444064417" duration="384000" />
+      <workItem from="1572444453283" duration="7343000" />
+      <workItem from="1572499053613" duration="3000" />
+      <workItem from="1572526976399" duration="6556000" />
+      <workItem from="1572533540972" duration="1140000" />
+      <workItem from="1572534684249" duration="3951000" />
+      <workItem from="1572615385511" duration="8510000" />
+      <workItem from="1572797077399" duration="2858000" />
+      <workItem from="1572850233556" duration="2586000" />
+      <workItem from="1572854949331" duration="3789000" />
+      <workItem from="1572880866703" duration="5024000" />
+      <workItem from="1572885897792" duration="84000" />
+      <workItem from="1572885983435" duration="2083000" />
+      <workItem from="1572963436376" duration="554000" />
+      <workItem from="1572963993221" duration="10939000" />
+      <workItem from="1573012389815" duration="3573000" />
+      <workItem from="1573048004956" duration="9948000" />
+      <workItem from="1573058338814" duration="2423000" />
+      <workItem from="1573107908104" duration="6398000" />
+      <workItem from="1573144649531" duration="2997000" />
+      <workItem from="1573229059169" duration="1220000" />
+      <workItem from="1573230283009" duration="3595000" />
+      <workItem from="1573236690339" duration="6167000" />
+      <workItem from="1573302602926" duration="8720000" />
+      <workItem from="1573492646802" duration="667000" />
+      <workItem from="1573499869148" duration="17000" />
+      <workItem from="1573499894026" duration="7399000" />
+      <workItem from="1573570862749" duration="8663000" />
+      <workItem from="1573623229769" duration="4450000" />
+      <workItem from="1573627685701" duration="779000" />
+      <workItem from="1573628467199" duration="4856000" />
+      <workItem from="1573657335778" duration="2883000" />
+      <workItem from="1573660223749" duration="5303000" />
+      <workItem from="1573713352332" duration="4745000" />
+      <workItem from="1573744807952" duration="3483000" />
+      <workItem from="1573748910632" duration="3882000" />
+      <workItem from="1573797655358" duration="7102000" />
+      <workItem from="1573825541303" duration="5267000" />
+      <workItem from="1573833533158" duration="4043000" />
+      <workItem from="1574010481412" duration="8800000" />
+      <workItem from="1574043985498" duration="7130000" />
+      <workItem from="1574065683002" duration="2507000" />
+      <workItem from="1574088582114" duration="8216000" />
+      <workItem from="1574172402538" duration="4948000" />
+      <workItem from="1574177427396" duration="6365000" />
+      <workItem from="1574265728644" duration="12189000" />
+      <workItem from="1574569012017" duration="34000" />
+      <workItem from="1574569063881" duration="600000" />
+      <workItem from="1574607518940" duration="8043000" />
+      <workItem from="1574624161466" duration="1245000" />
+      <workItem from="1574625409568" duration="4308000" />
+      <workItem from="1574646896479" duration="1792000" />
+      <workItem from="1574650094277" duration="2008000" />
+      <workItem from="1574652106647" duration="9298000" />
+      <workItem from="1575388984708" duration="60000" />
+      <workItem from="1575389101862" duration="1297000" />
+      <workItem from="1575473217103" duration="2291000" />
+      <workItem from="1575475517685" duration="1638000" />
+      <workItem from="1575477162839" duration="351000" />
+      <workItem from="1575477516624" duration="29000" />
+      <workItem from="1575477547236" duration="131000" />
+      <workItem from="1575477681903" duration="90000" />
+      <workItem from="1575477821446" duration="1704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1332" y="294" key="#Inspections" timestamp="1575474596326">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="1332" y="294" key="#Inspections/0.0.2318.1265@0.0.2318.1265" timestamp="1575474596326" />
+    <state x="1420" y="364" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575475504204">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="1420" y="364" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1575475504204" />
+    <state width="2276" height="248" key="GridCell.Tab.0.bottom" timestamp="1575477827300">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="248" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1575477827300" />
+    <state width="2276" height="248" key="GridCell.Tab.0.center" timestamp="1575477827300">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="248" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1575477827300" />
+    <state width="2276" height="248" key="GridCell.Tab.0.left" timestamp="1575477827300">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="248" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1575477827300" />
+    <state width="2276" height="248" key="GridCell.Tab.0.right" timestamp="1575477827300">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="248" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1575477827300" />
+    <state x="282" y="153" key="SettingsEditor" timestamp="1575477666776">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="282" y="153" key="SettingsEditor/0.0.2318.1265@0.0.2318.1265" timestamp="1575477666776" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/chapter3/graphs.ipynb</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ISLR$multiple_linear.coverage" NAME="multiple_linear Coverage Results" MODIFIED="1571076065910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+  </component>
+</project>
