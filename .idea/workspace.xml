@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="287a1430-872a-4abe-923d-5c7b5b89b130" name="Default Changelist" comment="" />
+    <list default="true" id="287a1430-872a-4abe-923d-5c7b5b89b130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/8.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/9.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/conceptual.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/lab.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/OJ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter8/graph.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/graph.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +40,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="953efcd2-98a9-41a5-97b3-0a2059ac741f">
     <option name="files">
+      <option value="chapter8\7.ipynb" />
+      <option value="chapter8\conceptual.ipynb" />
       <option value="chapter8\graph.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1RMa6X9opvfQ5kIYAKYMNecUbeF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,17 +61,19 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -357,11 +378,58 @@
       <workItem from="1575477547236" duration="131000" />
       <workItem from="1575477681903" duration="90000" />
       <workItem from="1575477821446" duration="1704000" />
+      <workItem from="1576855109793" duration="6016000" />
+      <workItem from="1577054731950" duration="13585000" />
+      <workItem from="1577591423416" duration="599000" />
+      <workItem from="1577645959628" duration="707000" />
+      <workItem from="1577720823086" duration="220000" />
+      <workItem from="1577721047511" duration="3755000" />
+      <workItem from="1577916951992" duration="746000" />
+      <workItem from="1577918940617" duration="70000" />
+      <workItem from="1577931221310" duration="306000" />
+      <workItem from="1577931537108" duration="293000" />
+      <workItem from="1577931832723" duration="808000" />
+      <workItem from="1577932643955" duration="3790000" />
+      <workItem from="1577944614100" duration="1123000" />
+      <workItem from="1577945742610" duration="1277000" />
+      <workItem from="1577978519919" duration="37000" />
+      <workItem from="1577978600056" duration="613000" />
+      <workItem from="1577979219902" duration="374000" />
+      <workItem from="1577979596148" duration="151000" />
+      <workItem from="1577979802000" duration="2114000" />
+      <workItem from="1577981938997" duration="367000" />
+      <workItem from="1577982587092" duration="552000" />
+      <workItem from="1577983959669" duration="245000" />
+      <workItem from="1577984241263" duration="174000" />
+      <workItem from="1577984429283" duration="825000" />
+      <workItem from="1578022311650" duration="767000" />
+      <workItem from="1578067445005" duration="714000" />
+      <workItem from="1578068161771" duration="2175000" />
+      <workItem from="1578070344090" duration="1464000" />
+      <workItem from="1578327237809" duration="303000" />
+      <workItem from="1578327621898" duration="1699000" />
+      <workItem from="1578329794364" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1332" y="294" key="#Inspections" timestamp="1575474596326">
@@ -372,26 +440,34 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="1420" y="364" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1575475504204" />
-    <state width="2276" height="248" key="GridCell.Tab.0.bottom" timestamp="1575477827300">
+    <state width="2276" height="248" key="GridCell.Tab.0.bottom" timestamp="1578327631837">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state width="2276" height="248" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1575477827300" />
-    <state width="2276" height="248" key="GridCell.Tab.0.center" timestamp="1575477827300">
+    <state width="2276" height="248" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1578327631837" />
+    <state width="2276" height="248" key="GridCell.Tab.0.center" timestamp="1578327631837">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state width="2276" height="248" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1575477827300" />
-    <state width="2276" height="248" key="GridCell.Tab.0.left" timestamp="1575477827300">
+    <state width="2276" height="248" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1578327631837" />
+    <state width="2276" height="248" key="GridCell.Tab.0.left" timestamp="1578327631837">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state width="2276" height="248" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1575477827300" />
-    <state width="2276" height="248" key="GridCell.Tab.0.right" timestamp="1575477827300">
+    <state width="2276" height="248" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1578327631837" />
+    <state width="2276" height="248" key="GridCell.Tab.0.right" timestamp="1578327631837">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state width="2276" height="248" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1575477827300" />
-    <state x="282" y="153" key="SettingsEditor" timestamp="1575477666776">
+    <state width="2276" height="248" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1578327631837" />
+    <state x="489" y="276" key="SettingsEditor" timestamp="1577983114694">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="282" y="153" key="SettingsEditor/0.0.2318.1265@0.0.2318.1265" timestamp="1575477666776" />
+    <state x="489" y="276" key="SettingsEditor/0.0.2318.1265@0.0.2318.1265" timestamp="1577983114694" />
+    <state x="915" y="477" key="cloudConfig.SelfSettingsDialog" timestamp="1577980532639">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="915" y="477" key="cloudConfig.SelfSettingsDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1577980532639" />
+    <state x="822" y="282" width="672" height="678" key="search.everywhere.popup" timestamp="1577121484196">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="822" y="282" width="672" height="678" key="search.everywhere.popup/0.0.2318.1265@0.0.2318.1265" timestamp="1577121484196" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
